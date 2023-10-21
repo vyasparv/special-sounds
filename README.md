@@ -11,4 +11,4 @@ Sonification: use of non-speech audio to convey information or perceptualize dat
 In this code all the necessary back end files and resources for development of a application or web page are available.
 All the steps for integration and references for understanding the code are mentioned in attached documentation. 
 
-Project was made during NASA space-apps hackathon, 2023 and got shortlisted in top 15 at local event, 
+Project was made during NASA space-apps hackathon, 2023 and got shortlisted in top 15 at local event. 
